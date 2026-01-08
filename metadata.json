@@ -1,0 +1,7 @@
+{
+  "name": "CleanMaster Pro - 自由接案清潔管理助手",
+  "description": "專為清潔服務接案者設計的時間與金錢管理工具，提供直覺的月曆總覽、每日任務清單、自動收入統計與成就達成系統。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
